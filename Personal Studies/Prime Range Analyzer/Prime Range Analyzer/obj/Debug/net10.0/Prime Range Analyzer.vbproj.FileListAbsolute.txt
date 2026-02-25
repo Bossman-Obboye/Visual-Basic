@@ -1,0 +1,14 @@
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\bin\Debug\net10.0\Prime Range Analyzer.exe
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\bin\Debug\net10.0\Prime Range Analyzer.deps.json
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\bin\Debug\net10.0\Prime Range Analyzer.runtimeconfig.json
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\bin\Debug\net10.0\Prime Range Analyzer.dll
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\bin\Debug\net10.0\Prime Range Analyzer.pdb
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.dll
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\refint\Prime Range Analyzer.dll
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.pdb
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\Prime Range Analyzer.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Personal Studies\Prime Range Analyzer\Prime Range Analyzer\obj\Debug\net10.0\ref\Prime Range Analyzer.dll

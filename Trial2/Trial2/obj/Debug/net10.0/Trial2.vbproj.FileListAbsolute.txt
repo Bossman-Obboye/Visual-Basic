@@ -1,0 +1,14 @@
+C:\Users\Obboye\source\repos\Trial2\Trial2\bin\Debug\net10.0\Trial2.exe
+C:\Users\Obboye\source\repos\Trial2\Trial2\bin\Debug\net10.0\Trial2.deps.json
+C:\Users\Obboye\source\repos\Trial2\Trial2\bin\Debug\net10.0\Trial2.runtimeconfig.json
+C:\Users\Obboye\source\repos\Trial2\Trial2\bin\Debug\net10.0\Trial2.dll
+C:\Users\Obboye\source\repos\Trial2\Trial2\bin\Debug\net10.0\Trial2.pdb
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.dll
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\refint\Trial2.dll
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.pdb
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\ref\Trial2.dll

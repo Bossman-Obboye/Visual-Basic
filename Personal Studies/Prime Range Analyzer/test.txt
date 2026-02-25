@@ -1,0 +1,18 @@
+LEVEL 1 — Logic Under Pressure
+1️⃣ Prime Range Analyzer
+
+Ask the user for:
+
+Start number
+
+End number
+
+Print:
+
+All prime numbers in that range
+
+Total number of primes found
+
+The largest prime in the range
+
+No built-in prime helpers. Write your own logic.
