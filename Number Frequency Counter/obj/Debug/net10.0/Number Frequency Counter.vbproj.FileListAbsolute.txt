@@ -1,0 +1,15 @@
+C:\Users\Obboye\source\repos\Number Frequency Counter\bin\Debug\net10.0\Number Frequency Counter.exe
+C:\Users\Obboye\source\repos\Number Frequency Counter\bin\Debug\net10.0\Number Frequency Counter.deps.json
+C:\Users\Obboye\source\repos\Number Frequency Counter\bin\Debug\net10.0\Number Frequency Counter.runtimeconfig.json
+C:\Users\Obboye\source\repos\Number Frequency Counter\bin\Debug\net10.0\Number Frequency Counter.dll
+C:\Users\Obboye\source\repos\Number Frequency Counter\bin\Debug\net10.0\Number Frequency Counter.pdb
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.sourcelink.json
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.dll
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\refint\Number Frequency Counter.dll
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.pdb
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\Number Frequency Counter.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Number Frequency Counter\obj\Debug\net10.0\ref\Number Frequency Counter.dll

@@ -1,0 +1,15 @@
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\bin\Debug\net10.0\Console-Based Quiz Engine.exe
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\bin\Debug\net10.0\Console-Based Quiz Engine.deps.json
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\bin\Debug\net10.0\Console-Based Quiz Engine.runtimeconfig.json
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\bin\Debug\net10.0\Console-Based Quiz Engine.dll
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\bin\Debug\net10.0\Console-Based Quiz Engine.pdb
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.sourcelink.json
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.dll
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\refint\Console-Based Quiz Engine.dll
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.pdb
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\Console-Based Quiz Engine.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Console-Based Quiz Engine\obj\Debug\net10.0\ref\Console-Based Quiz Engine.dll

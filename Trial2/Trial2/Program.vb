@@ -32,15 +32,18 @@ Module Program
         Console.WriteLine()
 
         'Display Largest
-        Console.WriteLine($"The largest: {Largest(inputs)}.")
+        Console.WriteLine($"The largest: {Largest(inputs)}")
         Console.WriteLine()
 
         'Display Smallest
-        Console.WriteLine($"The smallest: {Smallest(inputs)}.")
+        Console.WriteLine($"The smallest: {Smallest(inputs)}")
         Console.WriteLine()
 
         'Display Analysis
         Analysis(inputs)
+
+        Console.WriteLine("Program Completed")
+
     End Sub
 
     Function TotalCount(ByVal numbers As List(Of Double)) As Integer

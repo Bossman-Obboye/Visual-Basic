@@ -1,0 +1,15 @@
+C:\Users\Obboye\source\repos\Array Processing\bin\Debug\net10.0\Array Processing.exe
+C:\Users\Obboye\source\repos\Array Processing\bin\Debug\net10.0\Array Processing.deps.json
+C:\Users\Obboye\source\repos\Array Processing\bin\Debug\net10.0\Array Processing.runtimeconfig.json
+C:\Users\Obboye\source\repos\Array Processing\bin\Debug\net10.0\Array Processing.dll
+C:\Users\Obboye\source\repos\Array Processing\bin\Debug\net10.0\Array Processing.pdb
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.sourcelink.json
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.dll
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\refint\Array Processing.dll
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.pdb
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\Array Processing.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Array Processing\obj\Debug\net10.0\ref\Array Processing.dll

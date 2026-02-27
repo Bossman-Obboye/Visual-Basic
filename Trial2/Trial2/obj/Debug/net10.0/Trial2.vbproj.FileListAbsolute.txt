@@ -12,3 +12,4 @@ C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\refint\Trial2.dll
 C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.pdb
 C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.genruntimeconfig.cache
 C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\ref\Trial2.dll
+C:\Users\Obboye\source\repos\Trial2\Trial2\obj\Debug\net10.0\Trial2.sourcelink.json

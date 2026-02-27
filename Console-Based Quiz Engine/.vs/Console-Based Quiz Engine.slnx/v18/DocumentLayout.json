@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|c:\\users\\obboye\\source\\repos\\console-based quiz engine\\question.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|solutionrelative:question.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|c:\\users\\obboye\\source\\repos\\console-based quiz engine\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|c:\\users\\obboye\\source\\repos\\console-based quiz engine\\questionsdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|solutionrelative:questionsdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|c:\\users\\obboye\\source\\repos\\console-based quiz engine\\rules.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{444CDBD5-B90C-CB3E-44DB-A4A0B99C327F}|Console-Based Quiz Engine.vbproj|solutionrelative:rules.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.vb",
+              "DocumentMoniker": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Question.vb",
+              "RelativeDocumentMoniker": "Question.vb",
+              "ToolTip": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Question.vb",
+              "RelativeToolTip": "Question.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-27T12:57:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionsData.vb",
+              "DocumentMoniker": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\QuestionsData.vb",
+              "RelativeDocumentMoniker": "QuestionsData.vb",
+              "ToolTip": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\QuestionsData.vb",
+              "RelativeToolTip": "QuestionsData.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-25T14:33:33.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rules.txt",
+              "DocumentMoniker": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Rules.txt",
+              "RelativeDocumentMoniker": "Rules.txt",
+              "ToolTip": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Rules.txt",
+              "RelativeToolTip": "Rules.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-25T14:30:51.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-25T13:12:02.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

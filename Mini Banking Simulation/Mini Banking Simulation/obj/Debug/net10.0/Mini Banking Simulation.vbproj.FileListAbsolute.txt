@@ -1,0 +1,15 @@
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\bin\Debug\net10.0\Mini Banking Simulation.exe
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\bin\Debug\net10.0\Mini Banking Simulation.deps.json
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\bin\Debug\net10.0\Mini Banking Simulation.runtimeconfig.json
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\bin\Debug\net10.0\Mini Banking Simulation.dll
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\bin\Debug\net10.0\Mini Banking Simulation.pdb
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.AssemblyInfoInputs.cache
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.AssemblyInfo.vb
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.vbproj.CoreCompileInputs.cache
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.sourcelink.json
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.dll
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\refint\Mini Banking Simulation.dll
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.pdb
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\Mini Banking Simulation.genruntimeconfig.cache
+C:\Users\Obboye\source\repos\Mini Banking Simulation\Mini Banking Simulation\obj\Debug\net10.0\ref\Mini Banking Simulation.dll

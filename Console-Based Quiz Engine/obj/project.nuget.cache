@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jKDfZoPsO8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Console-Based Quiz Engine.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Obboye\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\Obboye\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\Obboye\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Console-Based Quiz Engine.vbproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Obboye\\source\\repos\\Console-Based Quiz Engine\\Console-Based Quiz Engine.vbproj",
+      "targetGraphs": []
+    }
+  ]
+}

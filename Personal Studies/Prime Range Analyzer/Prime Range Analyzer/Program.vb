@@ -63,8 +63,10 @@ Module Program
         End While
 
 
-        Return
+        Return {min, max}
 
 
     End Function
+
+
 End Module

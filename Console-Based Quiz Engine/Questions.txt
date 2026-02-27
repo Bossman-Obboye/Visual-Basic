@@ -1,0 +1,81 @@
+VB.NET QUIZ – 20 QUESTIONS
+
+1.  What does OOP stand for? A. Object Oriented Programming B.
+    Operational Output Process C. Object Optimized Protocol D. Ordered
+    Object Procedure
+
+2.  Which keyword defines a class? A. Structure B. Class C. Module D.
+    Object
+
+3.  Which loop always runs at least once? A. For B. While C. Do While D.
+    Do Loop Until
+
+4.  Which data type stores decimal numbers? A. Integer B. Boolean C.
+    Double D. Char
+
+5.  Dividing by zero causes: A. Compile error B. Runtime exception C.
+    Returns 0 D. Warning only
+
+6.  Which keyword exits a loop immediately? A. Stop B. Exit C. Break D.
+    Continue
+
+7.  What is the default value of Boolean? A. True B. False C. Nothing D.
+    0
+
+8.  Which symbol concatenates strings? A. + B. & C. * D. &&
+
+9.  Which access modifier makes members visible only inside the
+    class? A. Public B. Protected C. Friend D. Private
+
+10. What does Dim mean? A. Define Memory B. Declare Variable C. Delete
+    Instance Memory D. Dynamic Instance Mode
+
+11. Which keyword handles exceptions? A. Catch B. Handle C. Try D. Throw
+
+12. Which statement is used for multiple condition checks? A. If B.
+    Select Case C. Switch D. Loop
+
+13. Arrays in VB.NET are: A. Dynamic only B. Fixed size by default C.
+    Unlimited D. Text only
+
+14. Which keyword prevents inheritance? A. NotInheritable B. Sealed C.
+    Static D. Locked
+
+15. What does ByRef do? A. Passes copy B. Passes reference C. Blocks
+    variable D. Converts type
+
+16. Which collection allows dynamic sizing? A. Array B. List(Of T) C.
+    Structure D. Enum
+
+17. Which operator checks equality? A. == B. = C. === D. <>
+
+18. What is Nothing? A. Zero B. Empty string C. Null reference D. False
+
+19. Which keyword creates an object instance? A. Create B. Build C.
+    New D. Init
+
+20. Which statement skips to next loop iteration? A. Exit B. Continue C.
+    Skip D. Pass
+
+ANSWER KEY
+
+1.  A
+2.  B
+3.  D
+4.  C
+5.  B
+6.  B
+7.  B
+8.  B
+9.  D
+10. B
+11. C
+12. B
+13. B
+14. A
+15. B
+16. B
+17. B
+18. C
+19. C
+20. B

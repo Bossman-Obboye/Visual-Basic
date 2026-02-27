@@ -1,0 +1,74 @@
+RulesRules
+
+We’re building a Console-Based Quiz Engine in Visual Basic .NET.
+🔥 QUIZ ENGINE — FULL REQUIREMENTS
+🎯 Core Rules
+Your program must:
+Store 5 questions
+Each question must have:
+4 options (A, B, C, D)
+1 correct answer
+Ask questions one by one
+Accept user input (A–D only)
+Validate input (reject invalid answers)
+Keep score
+Show:
+Final score
+Percentage
+Pass/Fail (Pass mark = 60%)
+Display which questions were answered wrong
+Ask user if they want to retry
+If yes → reset everything and restart
+If no → exit cleanly
+🔥 STRICT RULES (This is where it gets serious)
+You must:
+Use arrays or lists properly
+Separate logic into Functions/Subs
+Avoid duplicated code
+Handle invalid inputs safely
+Keep code clean and readable
+No hardcoding answer checks inside 5 different If statements
+🔥 Structure Hint (Don’t Ignore This)
+You should think in terms of:
+List(Of String) → Questions
+List(Of String()) → Options
+List(Of Char) → Correct Answers
+List(Of Integer) → Wrong Question Indexes
+If you write everything inside Sub Main()… you failed the design test.
+🔥 EXTRA HARD MODE (Optional)
+If you want to prove you’re serious:
+Shuffle the questions randomly
+Track time taken to complete quiz
+Show highest score achieved so far
+🧠 Example Output Flow
+Copy code
+
+Question 1:
+What is the capital of France?
+A. Berlin
+B. Madrid
+C. Paris
+D. Rome
+
+Your answer: C
+Correct!
+
+--------------------------------
+
+Quiz Completed!
+Score: 4 / 5
+Percentage: 80%
+Status: PASS
+
+You got Question 2 wrong.
+Correct answer was B.
+
+Retry? (Y/N):
+This is not a small task.
+This tests:
+Loops
+Arrays
+Input validation
+Functions
+State resetting
+Clean architecture thinking
